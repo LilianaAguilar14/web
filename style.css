@@ -1,0 +1,15 @@
+.flipped {
+    transform: scaleX(-1);
+}
+
+
+.btn-custom {
+    background-color: #412760; 
+    border-color: #412760;
+
+}
+
+.btn-custom:hover {
+    background-color: #a260f2; 
+    border-color: #a260f2; 
+}
